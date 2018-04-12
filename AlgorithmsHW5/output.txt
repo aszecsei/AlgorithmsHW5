@@ -1,0 +1,9 @@
+Transformation took 6 steps:
+	INPUT:  timeflieslikeanarrow
+	Step 1: flip(2, 5) =  tfemilieslikeanarrow
+	Step 2: flip(8, 11) =  tfemiliilsekeanarrow
+	Step 3: substitute(10) =  tfemiliilzekeanarrow
+	Step 4: substitute(12) =  tfemiliilzejeanarrow
+	Step 5: flip(14, 20) =  tfemiliilzejeworrana
+	Step 6: substitute(18) =  tfemiliilzejeworrbna
+	OUTPUT:  tfemiliilzejeworrbna
